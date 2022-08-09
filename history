@@ -2,3 +2,8 @@ user:Hiroki Tamura
 date:2022/06/24
 changeFile:package.json
 changeDetail:Changed react-pdf of dependencies.
+
+user:Hiroki Tamura
+date:2022/07/08
+changeFile:.gitIgnore
+changeDetail:Remove dist from git Ignore。
